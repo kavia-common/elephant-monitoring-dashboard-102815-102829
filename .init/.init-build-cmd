@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/elephant-monitoring-dashboard-102815-102829/elephant_dashboard_frontend"
+}
